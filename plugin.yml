@@ -1,0 +1,12 @@
+name: AxoRegionsFlag
+version: 1.0-SNAPSHOT
+main: com.axo.axoregionsflag.AxoRegionsFlag
+api-version: 1.20
+commands:
+  axoregionsflag:
+    description: Zarządzanie regionami z komendami
+    usage: /<command> <pos1|pos2|create|remove|list>
+permissions:
+  axoregionsflag.admin:
+    description: Dostęp do zarządzania regionami
+    default: op
