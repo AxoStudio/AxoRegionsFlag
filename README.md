@@ -11,5 +11,3 @@ Może uruchamiać np. Komende na bossa, cooldown możesz ustawić w config.yml
     użycie: /<command> <pos1|pos2|create|remove|list>
 # Permisje:
   axoregionsflag.admin:
-    opis: Dostęp do zarządzania regionami
-    default: op
